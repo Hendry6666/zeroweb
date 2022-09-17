@@ -1,0 +1,12 @@
+{
+  "name": "zeroweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
